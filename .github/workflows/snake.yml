@@ -86,7 +86,7 @@ jobs:
 
         with:
 
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: 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
 
           publish_dir: ./dist
 
